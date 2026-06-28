@@ -17,8 +17,7 @@ I’m the one who walks into the tech classroom and sees what nobody else sees: 
 I’m a Technical College student who doesn’t settle for what they teach me. The curriculum is my foundation, but real knowledge? I build it myself. Line by line. Error by error. Late night after late night.
 
 I don't wait for instructions. I spot the problem, design the solution, and execute it before anyone else even has the idea.
-
-
+<br>
 
 ```java
 public class Developer {
