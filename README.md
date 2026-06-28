@@ -19,6 +19,7 @@ I’m a Technical College student who doesn’t settle for what they teach me. T
 I don't wait for instructions. I spot the problem, design the solution, and execute it before anyone else even has the idea.
 
 
+
 ```java
 public class Developer {
     // Atributos
