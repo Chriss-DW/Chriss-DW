@@ -17,14 +17,6 @@ I’m the one who walks into the tech classroom and sees what nobody else sees: 
 I’m a Technical College student who doesn’t settle for what they teach me. The curriculum is my foundation, but real knowledge? I build it myself. Line by line. Error by error. Late night after late night.
 
 I don't wait for instructions. I spot the problem, design the solution, and execute it before anyone else even has the idea.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 
 ```java
