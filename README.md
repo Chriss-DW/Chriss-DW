@@ -1,5 +1,5 @@
 # Hi there 👋
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=200px alt="Cat Showercap" src="https://media.tenor.com/GnT6WEh2xYkAAAAM/cat-showercap-slyonicz.gif" />
 
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=600&lines=Front-end+developer+in+progress;Programming+learner;Creating+web+experiences;Improving+with+AI" alt="Typing SVG" class="center" style="text-align: center;"/></a>
